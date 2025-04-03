@@ -1,0 +1,72 @@
+,Project Name,Domain,Mentors,Mentors Number,Mentees Number,Link
+0,TEXT SUMMARIZATION WEB APP,Development,"Kundeshwar Vijay Pundalik, Adresh Alagade",2,20+,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project221.html
+1,Competitive Programming,CP,Virendra Kabra,1,6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project292.html
+2,Write yourself a Git!,Miscellaneous,Abhijeet Prasad Bodas,1,2-5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/item223.html
+3,File Compression System,Miscellaneous,Amritaansh Narain,1,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project224.html
+4,FAST-G,Miscellaneous,"Ameya Vikram Singh, Prerak Contractor, Anish Yogesh Kulkarni",3,9,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project225.html
+5,Developing Trading Strategy with Pine Script,Miscellaneous,"Vivek Kumar, Rajik Kumar",2,6-8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project226.html
+6,Real time Driver Drowsiness detection System,Machine Learning,Vedang Bale,1,8-10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project227.html
+7,The Image Cartoonifier,Machine Learning,"Jaideep Chandra, Sridhar, Bhavani Sankar",3,10-15,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project228.html
+8,Speech to Speech Translation,Machine Learning,Swapnoneel Kayal,1,3-4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project229.html
+9,Competitive Programming - Newbie to Master,CP,"Parth Dwivedi, Kunal Kundwani",2,4-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project230.html
+10,Path-Planning of Swarm Robotics in 2/3D space,Machine Learning,"Archit Gupta, Sameer Mannava, Aaryan Dangi",3,10-15,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project241.html
+11,Image Super Resolution using Deep Neural Networks,Machine Learning,"Tanay Tayal, Shantanu Welling, Param Shah",3,8-10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project242.html
+12,Enhance Low Resolution Image using GANs,Machine Learning,"Hitaansh Shah, Vidit Khazanchi",2,7-8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project243.html
+13,MyBox,Development,Samarth Bansal,1,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project244.html
+14,Deep Carlsen,Machine Learning,"Navyansh Mahla, Atishay Jain",2,8-10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project245.html
+15,InstiExchange - A web marketplace for IITB,Development,"Tanmay Hiremath, Adit Akarsh",2,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project246.html
+16,Homomorphic Encryption for k-NN on the Cloud,Miscellaneous,"Nilabha Saha, Maithri Suresh",2,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project247.html
+17,TRayCer,Miscellaneous,"Arnav Aditya Singh, Sankalan Baidya",2,6(freshies) + 4(sophies and above),https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project248.html
+18,Social media website with MERN,Developement,"Shivam Kumar, Prakhar Agarwal",2,10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project254.html
+19,Dive into Digital Image Processing,Machine Learning,"Vipul Patil, Hariprakash Reddy",2,8-10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project249.html
+20,Neural Quest,Machine Learning,"Isha Arora, Karan Godara, Khushang Singhla",3,10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project250.html
+21,To the Quantum Future,Miscellaneous,"Anand Narasimhan, Krishna N Agaram, Ameya Deshmukh",3,9,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project251.html
+22,Street Fighter II - Reinforcement Learning,Machine Learning,Vijay Balsubramaniam,1,5-10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project252.html
+23,Combinatorial Computing,Miscellaneous,"Soham Joshi, Ameya Vikrama Singh, Adarsh Reddy",3,4-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project253.html
+24,Navigating the Waters of AI,Machine Learning,"Atharv Kshirsagar, Kushal Gajbe, Omkar Nitsure",3,7-8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project255.html
+25,Autonomous Driving Vehicle,Machine Learning,"Kartik Gokhale, Sarthak Mittal",2,6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project256.html
+26,Author Identification through Stylometric Analysis,Machine Learning,Mani Praneeth Chilukuri,1,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project257.html
+27,Breakout Genius - Using RL to Build an AI Game Master,Machine Learning,"Omm Agrawal, Ayan Minham Khan, Sabyasachi Samantaray",3,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project258.html
+28,Image Captioning,Machine Learning,"Sabyasachi Samantaray, Nikhil Biradar",2,7-9,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project259.html
+29,Cricbuzz,Development,"Jaswanth Naidu, Kajal",2,6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project260.html
+30,Competitive Programming (CP),CP,"Gowtham S, Siddharth Bhuva, Rishit Shrivastava",2,10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project261.html
+31,Economics meets Machine Learning,Machine Learning,"Tejas Sanjaykumar Pagare, Param Rathour",2,4-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project262.html
+32,"SynerG Lab, CSE Department - Webpage",Development,Debojeet Das,1,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project263.html
+33,Computer vision for driverless vehicles,Machine Learning,"Yash Rampuria, Aryan Bhosale",2,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project264.html
+34,AudioHive A Social Audio App,Machine Learning,"Abhijit Amrendra Kumar, Atishay Jain, Harshit Morj",2,10-12,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project265.html
+35,Learning the Latent structure in LLMs,Machine Learning,Darshan Makwana,1,10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project266.html
+36,EdConnect,Development,"Gyana Prakash Beria, Shlok Nemani , Hiren Bavaskar",2,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project267.html
+37,NFTs Where Art and Tech Converge,Blockchain,"Amit Kumar, Divyam Gupta",2,8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project268.html
+38,Dive into the World of Quant,Miscellaneous,"Prajwal Raut, Sahil Khan",2,10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project269.html
+39,COLLIDE,Development,"Parth Pujari, Anish Kulkarni",1,8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project270.html
+40,Image Processing and Object Detection,Machine Learning,"Suyash Waghmare, Prajyot Pandit Chakre",1,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project271.html
+41,Unreal IITB,Development,"Harshit Morj, Kartik Gokhale",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project272.html
+42,Human Pose Estimation,Machine Learning,"Om Godage, Shubham Hazra",2,7,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project273.html
+43,Find me out,Machine Learning,"Omkar Nitsure, Dhruvi Ganatra",2,10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project274.html
+44,Sign Language Recogniser,Machine Learning,"Shruti Bahulekar, Ananya Agrawal",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project275.html
+45,"E-Commerce Website for VibSpecLab, IIT Bombay",Development,Ojas Jain,1,4-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project276.html
+46,Image Caption Generator,Machine Learning,Satwik Murarka,1,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project277.html
+47,Intro Full stack web development:Restaurant website,Development,"Durgesh Sahane, Aryan Adinath Popalghat",2,5-8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project278.html
+48,App for Credit rating of Retailers in Clothing Industry,Development,Onkar Borade,1,10-12,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project279.html
+49,Ray Tracing,Miscellaneous,Anand Bhaskar,1,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project280.html
+50,YOLO-Cam-Object Detection based Analytics,Machine Learning,"Aryan Goyal, Vidhan Jain",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project281.html
+51,Physically Based Rendering,Miscellaneous,Ishan Chaudhari,1,3,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project282.html
+52,A Secure Erasure Code-Based Cloud Storage System with Secure Data Forwarding,Miscellaneous,"Khushang Singla, Nilabha Saha",2,4-5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project283.html
+53,Graph Machine Learning,Machine Learning,Shlesh Gholap,1,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project284.html
+54,âThe Watchdogsâ - Solving a murder mystery using Computer Vision and Data Science,Machine Learning,"Agamjot Singh, Aastha Sancheti",2,6-10,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project285.html
+55,ArgueAI,Machine Learning,"Abhinav Raghuvanshi, Pranav Malpure, Rohan Kalbag",3,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project286.html
+56,Comic GPT,Machine Learning,Lakshay Gupta,1,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project288.html
+57,InstiNav,Development,"Rishi Tunuguntla, Rishikesh Gunjal",2,4,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project289.html
+58,Face detection for attendance using AI,Machine Learning,"Akash Prasad, Tushaar Jhamtani",2,3,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project290.html
+59,Hands on Reinforcement,Machine Learning,"Ashwin Abraham, Jujhaar , Prerak Contractor , Sankalp Bhamare",4,10-12,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project291.html
+60,RegExamaton,Miscellaneous,"Hrishikesh Jedhe Deshmukh, Ayush Agarwal",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project293.html
+61,Institute OnChain Voting System with ZKPs,Blockchain,"Nikhil Tiwari, Ananya Khandelwal, Ishit Garg",3,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project294.html
+62,Using Deep RL and NLP to allocate stocks in portfolio,Machine Learning,"Nikhil Tiwari, Ishan Jain",2,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project295.html
+63,Blockchain Development- It's not that difficult!,Blockchain,"Pragyesh Gupta, Dhruvkumar Patil , Harsh Choudhary",3,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project296.html
+64,Light field imaging and Dual Attention Networks,Machine Learning,"Abeer Mishra, Shreyas Patil",2,5,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project297.html
+65,Stable Diffusion,Machine Learning,"Shubham Hazra, Om Godage , Kartik Gokhale",3,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project298.html
+66,FlappeRL,Machine Learning,"Kartik Gokhale, Hastyn Doshi",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project299.html
+67,Hands-on Computational Physics,Miscellaneous,"Kaustav Prasada, Varad Mahashabde",2,5-8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project300.html
+68,Image Colorization,Machine Learning,Valay Bundele,1,5-8,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project301.html
+69,PaperPal,Machine Learning,"Vishruth N, Abhinav Raghuvanshi",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project302.html
+70,JobFinderX,Development,"Baggam Rakshan Tej , Pamba Ravindra Mohith",2,5-6,https://itc.gymkhana.iitb.ac.in//wncc/soc/projects/2023/project303.html
